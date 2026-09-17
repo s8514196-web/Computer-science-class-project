@@ -9,9 +9,9 @@
 <body>
     <h1>"Welcome to the Test Website!"</h1>
     <p>"This is a simple test page to check the title and for my computer science project."</p>
-<head/>
-<body>
-    <h2>"This is built with simple html code"</h2>
-     <a>"(: hope it works!"</a>
+<form action="/submit-data" method="POST">
+  <input type="text" name="username" placeholder="Enter username">
+  <button type="submit">Submit Form</button>
+</form>
 </body>
 </html>
