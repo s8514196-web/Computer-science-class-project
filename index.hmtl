@@ -11,7 +11,7 @@
     <p>"This is a simple test page to check the title and for my computer science project."</p>
 <head/>
 <body>
-    <h1>"This is built with simple html code"</h1>
-     <p>"(: hope it works!"</p>
+    <h2>"This is built with simple html code"</h2>
+     <a>"(: hope it works!"</a>
 </body>
 </html>
